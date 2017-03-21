@@ -5,6 +5,8 @@ if( instance_exists(obj_player)){
 
     if(mp_grid_path(obj_cave_gen.grid_path, path, x, y, xx, yy, true)){
         path_start(path, 2, path_action_stop, false);
+    //just testing to see if this is working!!!
+       
     }
 }
 
